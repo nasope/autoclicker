@@ -20,3 +20,7 @@ This application consists of 4 parts
   click on the button to remap the activation key
 
 To activate the autoclicker, simply press the hotkey given as the activation key. By pressing 'ctrl+shift+o', you will be able to kill the program in emergencies. 
+
+### Limitations
+* This program currently runs on one thread, which means u will often have to hold the toggle key and wait for the click cycle to finish.
+* It is currently not possible to remap the activation key to any mouse buttons.
